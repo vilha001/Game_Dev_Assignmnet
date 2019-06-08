@@ -1,0 +1,1671 @@
+﻿Log file open, 06/08/19 22:36:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.302715
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:30, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.240s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:        Intel(R) Core(TM) i7-2600K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 980
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Engine.ini]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Engine.ini]
+[2019.06.08-13.06.50:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Engine.ini]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.08-13.06.50:971][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Engine.ini]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.08-13.06.50:972][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Engine.ini]
+[2019.06.08-13.06.50:972][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Engine.ini]
+[2019.06.08-13.06.50:975][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.08-13.06.50:975][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.08-13.06.50:976][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.08-13.06.50:976][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.08-13.06.50:976][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.08-13.06.50:991][  0]LogHAL: Display: Platform has ~ 16 GB [17145405440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.08-13.06.50:991][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.08-13.06.50:991][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.08-13.06.50:991][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Scalability.ini]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.08-13.06.50:992][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.08-13.06.50:992][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Homework/Game_Dev_Assignmnet/Saved/Config/Windows/Engine.ini]
+[2019.06.08-13.06.50:993][  0]LogInit: Computer: HENRYSDESKTOP
+[2019.06.08-13.06.50:993][  0]LogInit: User: Henry
+[2019.06.08-13.06.50:993][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.08-13.06.50:993][  0]LogInit: High frequency timer resolution =3.320352 MHz
+[2019.06.08-13.06.50:993][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.06.08-13.06.50:993][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.08-13.06.50:993][  0]LogMemory: Process Physical Memory: 104.31 MB used, 104.31 MB peak
+[2019.06.08-13.06.50:993][  0]LogMemory: Process Virtual Memory: 98.55 MB used, 98.55 MB peak
+[2019.06.08-13.06.50:993][  0]LogMemory: Physical Memory: 5093.00 MB used,  11258.13 MB free, 16351.13 MB total
+[2019.06.08-13.06.50:993][  0]LogMemory: Virtual Memory: 4645.45 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.08-13.06.51:089][  0]LogInit: Using OS detected language (en-US).
+[2019.06.08-13.06.51:089][  0]LogInit: Using OS detected locale (en-AU).
+[2019.06.08-13.06.51:092][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.08-13.06.51:562][  0]LogStreaming: Display: Took  0.473s to InitEngineTextLocalization.
+[2019.06.08-13.06.51:562][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.08-13.06.51:601][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.08-13.06.51:601][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.08-13.06.52:142][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.08-13.06.52:142][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.08-13.06.52:226][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2019.06.08-13.06.52:226][  0]LogD3D11RHI:       4053/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.08-13.06.52:229][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.08-13.06.52:229][  0]LogD3D11RHI:       0/0/8175 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.08-13.06.52:229][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.08-13.06.52:238][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.08-13.06.52:238][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.08-13.06.52:238][  0]LogWindows: EnumDisplayDevices:
+[2019.06.08-13.06.52:238][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2019.06.08-13.06.52:239][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.06.08-13.06.52:239][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.06.08-13.06.52:240][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2019.06.08-13.06.52:240][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.08-13.06.52:240][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2019.06.08-13.06.52:240][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.06.08-13.06.52:240][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.06.08-13.06.52:240][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.06.08-13.06.52:293][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.08-13.06.52:316][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.08-13.06.52:912][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.08-13.06.52:928][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.08-13.06.52:943][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.08-13.06.52:958][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.08-13.06.52:977][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.08-13.06.52:994][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.08-13.06.53:010][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.08-13.06.53:026][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.08-13.06.53:033][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:113][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.08-13.06.53:115][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.08-13.06.53:181][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.08-13.06.53:181][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.08-13.06.53:207][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.08-13.06.53:207][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.08-13.06.53:222][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.08-13.06.53:236][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.08-13.06.53:251][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.08-13.06.53:266][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.08-13.06.53:318][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.08-13.06.53:318][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.08-13.06.53:318][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.08-13.06.53:400][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Homework/Game_Dev_Assignmnet/Intermediate/Shaders/WorkingDirectory/10308/).
+[2019.06.08-13.06.53:401][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Henry/AppData/Local/Temp/UnrealShaderWorkingDir/06E09C704A7CE416ACF9B48E7B0BDB29/'.
+[2019.06.08-13.06.53:404][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.08-13.06.53:404][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.08-13.06.53:404][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.08-13.06.54:077][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.08-13.06.54:155][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/Henry/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.08-13.06.54:155][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Henry/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.08-13.06.54:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Homework/Game_Dev_Assignmnet/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.08-13.06.54:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.08-13.06.54:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Homework/Game_Dev_Assignmnet/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.08-13.06.54:155][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.08-13.06.54:175][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.08-13.06.54:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.08-13.06.54:175][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.08-13.06.54:187][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Henry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.08-13.06.54:187][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.08-13.06.54:187][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.08-13.06.54:214][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.08-13.06.54:215][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.08-13.06.54:217][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.08-13.06.54:365][  0]LogAssetRegistry: FAssetRegistry took 0.0380 seconds to start up
+[2019.06.08-13.06.54:939][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.08-13.06.55:134][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.08-13.06.55:142][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.08-13.06.55:142][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.08-13.06.55:142][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.08-13.06.55:142][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.08-13.06.55:161][  0]LogNetVersion: MyProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1637960414)
+[2019.06.08-13.06.55:735][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090656 seconds
+[2019.06.08-13.06.55:740][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.08-13.06.55:741][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.08-13.06.55:741][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.08-13.06.57:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.08-13.06.57:120][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.08-13.06.58:437][  0]SourceControl: Source control is disabled
+[2019.06.08-13.06.58:438][  0]SourceControl: Source control is disabled
+[2019.06.08-13.06.58:441][  0]SourceControl: Source control is disabled
+[2019.06.08-13.06.58:443][  0]SourceControl: Source control is disabled
+[2019.06.08-13.06.58:631][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.08-13.06.58:751][  0]LogOcInput: OculusInput pre-init called
+[2019.06.08-13.06.58:899][  0]LogEngine: Initializing Engine...
+[2019.06.08-13.06.58:900][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.08-13.06.58:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.08-13.06.58:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.08-13.06.58:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.08-13.06.58:902][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.08-13.06.59:160][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.08-13.06.59:180][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.08-13.06.59:208][  0]LogInit: XAudio2 using 'Speakers (2- Logitech G933 Gaming Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.06.08-13.06.59:276][  0]LogInit: FAudioDevice initialized.
+[2019.06.08-13.06.59:276][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.08-13.06.59:391][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/Henry/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.08-13.06.59:413][  0]LogInit: Texture streaming: Enabled
+[2019.06.08-13.06.59:440][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.08-13.06.59:469][  0]LogInit: Transaction tracking system initialized
+[2019.06.08-13.06.59:504][  0]BlueprintLog: New page: Editor Load
+[2019.06.08-13.06.59:611][  0]LocalizationService: Localization service is disabled
+[2019.06.08-13.07.00:167][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.08-13.07.00:167][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.08-13.07.00:167][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.08-13.07.00:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.08-13.07.00:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.08-13.07.00:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.08-13.07.00:167][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.08-13.07.00:387][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Game_Dev_Assignmnet/Content/' took 0.12s
+[2019.06.08-13.07.00:387][  0]SourceControl: Source control is disabled
+[2019.06.08-13.07.00:387][  0]Cmd: MAP LOAD FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-13.07.00:388][  0]LightingResults: New page: Lighting Build
+[2019.06.08-13.07.00:392][  0]MapCheck: New page: Map Check
+[2019.06.08-13.07.00:393][  0]LightingResults: New page: Lighting Build
+[2019.06.08-13.07.01:404][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Crouch' for  InputAction Crouch
+[2019.06.08-13.07.01:405][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.06.08-13.07.01:405][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2019.06.08-13.07.01:405][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2019.06.08-13.07.01:425][  0]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0014.93] Compile of Ue4ASP_Character successful, but with 4 Warning(s) [in 116 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.06.08-13.07.07:610][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.08-13.07.07:731][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-13.07.07:766][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-13.07.07:767][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.06.08-13.07.07:767][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 7.379
+[2019.06.08-13.07.08:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.07.08:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.07.08:103][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.07.08:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.07.08:189][  0]LogCollectionManager: Loaded 0 collections in 0.003025 seconds
+[2019.06.08-13.07.08:266][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Game_Dev_Assignmnet/Saved/Collections/' took 0.01s
+[2019.06.08-13.07.08:266][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Game_Dev_Assignmnet/Content/Developers/Henry/Collections/' took 0.01s
+[2019.06.08-13.07.08:266][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Game_Dev_Assignmnet/Content/Collections/' took 0.01s
+[2019.06.08-13.07.08:266][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.08-13.07.08:276][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2651 classes and 620 folders.
+[2019.06.08-13.07.08:326][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.08-13.07.08:403][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:448][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:450][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:451][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:458][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.08:720][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.08-13.07.09:369][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.08-13.07.09:439][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.06.08-13.07.10:086][  0]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.08-13.07.10:088][  0]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.08-13.07.10:118][  0]LogSlate: Took 0.012726 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.08-13.07.10:356][  0]LogRenderer: Reallocating scene render targets to support 1396x588 Format 10 NumSamples 1 (Frame:1).
+[2019.06.08-13.07.10:614][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.08-13.07.10:614][  0]LogLoad: (Engine Initialization) Total time: 24.12 seconds
+[2019.06.08-13.07.10:614][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.08-13.07.10:698][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.08-13.07.10:776][  0]LogSlate: Took 0.015953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.08-13.07.11:040][  4]LogAssetRegistry: Asset discovery search completed in 16.6975 seconds
+[2019.06.08-13.07.11:042][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.08-13.07.11:042][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2019.06.08-13.07.19:475][ 29]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.07.43:026][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.07.43:192][338]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.08-13.07.45:198][338]LogAIModule: Creating AISystem for world Map_1
+[2019.06.08-13.07.45:261][338]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/Map_1.Map_1
+[2019.06.08-13.07.45:300][338]Cmd: MAP LOAD FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-13.07.45:300][338]LightingResults: New page: Lighting Build
+[2019.06.08-13.07.45:300][338]LoadErrors: New page: Loading map: Map_1.umap
+[2019.06.08-13.07.45:309][338]MapCheck: New page: Map Check
+[2019.06.08-13.07.45:309][338]LightingResults: New page: Lighting Build
+[2019.06.08-13.07.45:516][338]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-13.07.45:564][338]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-13.07.45:565][338]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.06.08-13.07.45:565][338]LogFileHelpers: Loading map 'Map_1' took 0.266
+[2019.06.08-13.07.50:386][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.07.54:550][312]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2019.06.08-13.08.05:528][555]LogSlate: Took 0.015155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.08-13.08.10:105][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.08.15:265][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_1" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.08.15:796][633]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_12CFF6CFA414C01467128E7BE4D6E77DD.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1.umap'
+[2019.06.08-13.08.15:864][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_1_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1_BuiltData.uasset" SILENT=true
+[2019.06.08-13.08.16:523][633]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_1_BuiltDataDB7F758D4CE010E680BAF98362946786.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1_BuiltData.uasset'
+[2019.06.08-13.08.20:870][142]MapCheck: New page: Map Check
+[2019.06.08-13.08.20:899][142]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.08-13.08.20:899][142]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.08-13.08.21:127][142]LightingResults: New page: Lighting Build - 9 Jun 2019 8:08:21 am
+[2019.06.08-13.08.21:218][142]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.08-13.08.21:418][142]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.08-13.08.21:438][142]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.08-13.08.22:457][142]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.08-13.08.22:458][142]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2019.06.08-13.08.27:418][142]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.08-13.08.27:419][142]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.08-13.08.27:419][142]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.08-13.08.27:419][142]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.08-13.08.27:419][142]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.08-13.08.27:419][142]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.08-13.08.27:599][142]LogEditorBuildUtils: Build time 0:06
+[2019.06.08-13.08.41:421][ 94]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.08.41:421][ 94]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.08.42:938][196]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.08.42:938][196]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.08.43:322][217]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.08.43:322][217]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.08.43:916][250]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.08.43:916][250]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.08.49:816][714]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.08.49:816][714]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.08.59:254][424]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.08.59:265][425]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.08.59:749][462]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.08.59:749][462]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.09.00:166][491]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.09.00:166][491]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.09.00:958][545]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.09.00:958][545]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.09.03:036][694]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.09.03:036][694]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.09.04:704][830]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.09.04:704][830]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.09.05:538][897]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.09.05:538][897]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.09.06:989][ 11]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.09.06:989][ 11]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.09.07:249][ 34]Job is a success!
+[2019.06.08-13.09.07:303][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.09.07:385][ 36]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2019.06.08-13.09.07:385][ 36]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.08-13.09.07:385][ 36]LogVolumetricLightmapImport:      BrickData 725x5x5 = 0.7Mb
+[2019.06.08-13.09.07:385][ 36]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.08-13.09.07:385][ 36]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2019.06.08-13.09.07:385][ 36]LogVolumetricLightmapImport:          1: 6.2% covering 14.1% of volume
+[2019.06.08-13.09.07:385][ 36]LogVolumetricLightmapImport:          2: 93.1% covering 3.3% of volume
+[2019.06.08-13.09.09:203][ 36]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.06.08-13.09.09:203][ 36]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.06.08-13.09.09:203][ 36]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.06.08-13.09.09:203][ 36]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.06.08-13.09.09:203][ 36]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.06.08-13.09.09:203][ 36]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.06.08-13.09.09:203][ 36]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 128X64)
+[2019.06.08-13.09.09:204][ 36]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2019.06.08-13.09.09:204][ 36]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2019.06.08-13.09.09:404][ 36]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X64)
+[2019.06.08-13.09.09:453][ 36]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.06.08-13.09.09:497][ 36]Lightmass on HENRYSDESKTOP: 40.3 sec total, 270 ms importing, 2.16 sec setup, 9.11 sec photons, 28.7 sec processing, 0 ms extra exporting [233/233 mappings]. Threads: 3:21 min total, 2:32 min processing.
+[2019.06.08-13.09.09:567][ 36]LogStaticLightingSystem: Illumination: 48.4 sec (1.63 sec encoding lightmaps, 242 ms encoding shadowmaps)
+[2019.06.08-13.09.09:567][ 36]LogStaticLightingSystem: Lightmap texture memory:  5.4 MB (5.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.06.08-13.09.09:567][ 36]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.06.08-13.09.14:447][ 36]DumpUnbuiltLightIteractions
+[2019.06.08-13.09.14:447][ 36]Lights with unbuilt interactions: 0
+[2019.06.08-13.09.14:448][ 36]
+[2019.06.08-13.09.14:448][ 36]Primitives with unbuilt interactions: 0
+[2019.06.08-13.09.14:542][ 37]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.08-13.09.14:542][ 37]MapCheck: New page: Map_1 - 9 Jun 2019 8:09:14 am
+[2019.06.08-13.09.14:588][ 37]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.008ms to complete.
+[2019.06.08-13.09.15:677][151]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.09.15:685][151]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.09.28:633][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.09.54:116][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.09.55:193][687]MapCheck: New page: Map Check
+[2019.06.08-13.09.55:208][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.09.55:211][687]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.08-13.09.55:211][687]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.08-13.09.55:353][687]LightingResults: New page: Lighting Build - 9 Jun 2019 8:09:55 am
+[2019.06.08-13.09.55:360][687]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.08-13.09.55:363][687]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.08-13.09.55:363][687]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.08-13.09.55:363][687]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.08-13.09.55:363][687]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2019.06.08-13.09.59:933][687]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.08-13.09.59:933][687]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.08-13.09.59:933][687]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.08-13.09.59:933][687]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.08-13.09.59:933][687]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.08-13.09.59:933][687]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.08-13.10.00:023][687]LogEditorBuildUtils: Build time 0:04
+[2019.06.08-13.10.12:894][688]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.10.12:894][688]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.14:489][817]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.10.14:489][817]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.14:896][851]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.10.14:896][851]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.15:545][905]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.10.15:545][905]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.21:715][414]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.10.21:715][414]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.31:340][207]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.10.31:340][207]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.31:746][240]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.10.31:746][240]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.32:307][283]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.10.32:307][283]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.33:000][337]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.10.33:000][337]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.35:067][506]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.10.35:067][506]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.37:000][667]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.10.37:000][667]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.37:834][734]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.10.37:834][734]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.39:394][864]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.10.39:394][864]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.10.39:611][883]Job is a success!
+[2019.06.08-13.10.39:657][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.10.39:729][885]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2019.06.08-13.10.39:729][885]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.08-13.10.39:729][885]LogVolumetricLightmapImport:      BrickData 725x5x5 = 0.7Mb
+[2019.06.08-13.10.39:729][885]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.08-13.10.39:729][885]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2019.06.08-13.10.39:729][885]LogVolumetricLightmapImport:          1: 6.2% covering 14.1% of volume
+[2019.06.08-13.10.39:729][885]LogVolumetricLightmapImport:          2: 93.1% covering 3.3% of volume
+[2019.06.08-13.10.41:586][885]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2019.06.08-13.10.41:587][885]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2019.06.08-13.10.41:787][885]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X64)
+[2019.06.08-13.10.41:838][885]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.06.08-13.10.41:863][885]Lightmass on HENRYSDESKTOP: 41.2 sec total, 253 ms importing, 2.18 sec setup, 9.01 sec photons, 29.7 sec processing, 0 ms extra exporting [233/233 mappings]. Threads: 3:27 min total, 2:38 min processing.
+[2019.06.08-13.10.41:915][885]LogStaticLightingSystem: Illumination: 46.5 sec (1.69 sec encoding lightmaps, 242 ms encoding shadowmaps)
+[2019.06.08-13.10.41:915][885]LogStaticLightingSystem: Lightmap texture memory:  5.4 MB (5.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.06.08-13.10.41:915][885]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.06.08-13.10.46:966][885]DumpUnbuiltLightIteractions
+[2019.06.08-13.10.46:966][885]Lights with unbuilt interactions: 0
+[2019.06.08-13.10.46:967][885]
+[2019.06.08-13.10.46:967][885]Primitives with unbuilt interactions: 0
+[2019.06.08-13.10.47:035][886]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.08-13.10.47:035][886]MapCheck: New page: Map_1 - 9 Jun 2019 8:10:47 am
+[2019.06.08-13.10.47:043][886]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 7.677ms to complete.
+[2019.06.08-13.10.50:167][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.10.50:233][252]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.10.50:241][252]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.10.57:474][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.11.04:359][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.11.04:433][900]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.11.04:460][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.11.04:460][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-13.11.04:460][900]PIE: New page: PIE session: Map_1 (9 Jun 2019 8:11:04 am)
+[2019.06.08-13.11.04:483][900]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_1
+[2019.06.08-13.11.04:505][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022035s)
+[2019.06.08-13.11.04:505][900]LogAIModule: Creating AISystem for world Map_1
+[2019.06.08-13.11.04:506][900]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2019.06.08-13.11.04:506][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_1.Map_1 to /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 (0.023022s)
+[2019.06.08-13.11.04:540][900]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.11.04:569][900]LogInit: FAudioDevice initialized.
+[2019.06.08-13.11.04:587][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.11.04:642][900]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.11.04:661][900]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2019.06.08-22.41.04
+[2019.06.08-13.11.04:696][900]LogWorld: Bringing up level for play took: 0.048200
+[2019.06.08-13.11.04:771][900]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.06.08-13.11.04:795][900]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_1 0.659
+[2019.06.08-13.11.04:795][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.11.04:885][900]LogRenderer: Reallocating scene render targets to support 1396x756 Format 10 NumSamples 1 (Frame:1).
+[2019.06.08-13.11.06:873][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.11.06:978][117]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.11.06:987][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.11.07:023][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.11.07:023][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.11.07:070][118]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.06.08-13.11.09:787][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.12.18:021][ 20]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.08-13.12.30:188][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.12.38:424][322]MapCheck: New page: Map Check
+[2019.06.08-13.12.38:444][322]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.08-13.12.38:444][322]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.08-13.12.38:597][322]LightingResults: New page: Lighting Build - 9 Jun 2019 8:12:38 am
+[2019.06.08-13.12.38:604][322]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.08-13.12.38:606][322]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.08-13.12.38:606][322]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.08-13.12.38:607][322]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.08-13.12.38:607][322]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2019.06.08-13.12.43:117][322]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.08-13.12.43:117][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.08-13.12.43:117][322]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.08-13.12.43:117][322]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.08-13.12.43:117][322]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.08-13.12.43:117][322]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.08-13.12.43:227][322]LogEditorBuildUtils: Build time 0:04
+[2019.06.08-13.12.56:442][423]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.12.56:442][423]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.12.57:948][551]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.12.57:948][551]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.12.58:419][587]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.12.58:419][587]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.12.59:033][634]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.12.59:033][634]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.05:364][128]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.13.05:364][128]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.14:751][885]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.13.14:751][885]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.15:180][919]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.13.15:180][919]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.15:752][966]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.13.15:752][966]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.16:423][ 14]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.13.16:423][ 14]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.18:422][175]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.13.18:422][175]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.20:178][323]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.13.20:178][323]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.21:057][395]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.13.21:057][395]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.22:487][514]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.13.22:497][515]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.13.22:692][532]Job is a success!
+[2019.06.08-13.13.22:800][534]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2019.06.08-13.13.22:800][534]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.08-13.13.22:800][534]LogVolumetricLightmapImport:      BrickData 725x5x5 = 0.7Mb
+[2019.06.08-13.13.22:800][534]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.08-13.13.22:800][534]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2019.06.08-13.13.22:800][534]LogVolumetricLightmapImport:          1: 6.2% covering 14.1% of volume
+[2019.06.08-13.13.22:800][534]LogVolumetricLightmapImport:          2: 93.1% covering 3.3% of volume
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 128X64)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 128X128)
+[2019.06.08-13.13.24:694][534]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 128X128)
+[2019.06.08-13.13.24:894][534]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X64)
+[2019.06.08-13.13.24:961][534]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2019.06.08-13.13.24:985][534]Lightmass on HENRYSDESKTOP: 41.1 sec total, 248 ms importing, 2.24 sec setup, 9.36 sec photons, 29.2 sec processing, 0 ms extra exporting [233/233 mappings]. Threads: 3:24 min total, 2:35 min processing.
+[2019.06.08-13.13.25:028][534]LogStaticLightingSystem: Illumination: 46.4 sec (1.72 sec encoding lightmaps, 258 ms encoding shadowmaps)
+[2019.06.08-13.13.25:028][534]LogStaticLightingSystem: Lightmap texture memory:  5.4 MB (5.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.06.08-13.13.25:028][534]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.06.08-13.13.25:143][534]DumpUnbuiltLightIteractions
+[2019.06.08-13.13.25:143][534]Lights with unbuilt interactions: 0
+[2019.06.08-13.13.25:143][534]
+[2019.06.08-13.13.25:143][534]Primitives with unbuilt interactions: 0
+[2019.06.08-13.13.25:217][535]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.08-13.13.25:217][535]MapCheck: New page: Map_1 - 9 Jun 2019 8:13:25 am
+[2019.06.08-13.13.25:226][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.811ms to complete.
+[2019.06.08-13.13.27:228][759]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.13.27:238][759]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.13.34:162][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.13.34:538][596]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.13.34:552][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.13.34:552][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-13.13.34:552][596]PIE: New page: PIE session: Map_1 (9 Jun 2019 8:13:34 am)
+[2019.06.08-13.13.34:552][596]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_1
+[2019.06.08-13.13.34:574][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021803s)
+[2019.06.08-13.13.34:574][596]LogAIModule: Creating AISystem for world Map_1
+[2019.06.08-13.13.34:575][596]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2019.06.08-13.13.34:575][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_1.Map_1 to /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 (0.022521s)
+[2019.06.08-13.13.34:609][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.13.34:636][596]LogInit: FAudioDevice initialized.
+[2019.06.08-13.13.34:652][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.13.34:688][596]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.13.34:701][596]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2019.06.08-22.43.34
+[2019.06.08-13.13.34:705][596]LogWorld: Bringing up level for play took: 0.016401
+[2019.06.08-13.13.34:722][596]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_1 0.587
+[2019.06.08-13.13.34:723][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.13.48:472][212]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_31 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_31 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.13.48:473][212]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_31 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_31 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.13.48:624][230]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_32 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_32 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.13.48:624][230]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_32 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_32 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.14.47:389][265]LogNet: Browse: /Game/TopDownBP/Maps/Map_2
+[2019.06.08-13.14.47:390][265]LogLoad: LoadMap: /Game/TopDownBP/Maps/Map_2
+[2019.06.08-13.14.48:700][265]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.14.48:700][265]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.14.48:718][265]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 up for play (max tick rate 0) at 2019.06.08-22.44.48
+[2019.06.08-13.14.48:719][265]LogWorld: Bringing up level for play took: 0.018416
+[2019.06.08-13.14.48:722][265]LogLoad: Took 1.332894 seconds to LoadMap(/Game/TopDownBP/Maps/Map_2)
+[2019.06.08-13.14.52:243][681]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.14.52:243][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.14.52:259][681]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.14.52:296][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.14.52:296][681]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.14.52:368][682]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.06.08-13.14.53:767][831]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.14.53:776][831]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.14.56:039][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.15.32:511][269]MapCheck: New page: Map Check
+[2019.06.08-13.15.32:528][269]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.08-13.15.32:529][269]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.08-13.15.32:672][269]LightingResults: New page: Lighting Build - 9 Jun 2019 8:15:32 am
+[2019.06.08-13.15.32:679][269]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.08-13.15.32:681][269]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.08-13.15.32:681][269]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.08-13.15.32:682][269]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.08-13.15.32:682][269]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2019.06.08-13.15.37:192][269]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.08-13.15.37:192][269]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.08-13.15.37:192][269]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.08-13.15.37:192][269]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.08-13.15.37:192][269]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.08-13.15.37:192][269]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.08-13.15.37:302][269]LogEditorBuildUtils: Build time 0:04
+[2019.06.08-13.15.49:107][305]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.15.49:107][305]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.15.50:143][308]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.15.50:143][308]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.15.50:475][309]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.15.50:475][309]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.15.51:162][311]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.15.51:163][311]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.15.56:888][328]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.15.56:888][328]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.05:995][355]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.16.05:995][355]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.06:333][356]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.16.06:333][356]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.06:997][358]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.16.06:997][358]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.07:338][359]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.16.07:338][359]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.09:374][365]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.16.09:374][365]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.10:750][383]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.16.10:750][383]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.11:575][444]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.16.11:575][444]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.13:170][562]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.16.13:170][562]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.16.13:387][581]Job is a success!
+[2019.06.08-13.16.13:448][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.16.13:525][583]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2019.06.08-13.16.13:525][583]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.08-13.16.13:525][583]LogVolumetricLightmapImport:      BrickData 725x5x5 = 0.7Mb
+[2019.06.08-13.16.13:525][583]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.08-13.16.13:525][583]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2019.06.08-13.16.13:525][583]LogVolumetricLightmapImport:          1: 6.2% covering 14.1% of volume
+[2019.06.08-13.16.13:525][583]LogVolumetricLightmapImport:          2: 93.1% covering 3.3% of volume
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 128X64)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 128X128)
+[2019.06.08-13.16.15:374][583]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 128X128)
+[2019.06.08-13.16.15:575][583]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X64)
+[2019.06.08-13.16.15:634][583]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2019.06.08-13.16.15:658][583]Lightmass on HENRYSDESKTOP: 37.7 sec total, 238 ms importing, 2.08 sec setup, 7.94 sec photons, 27.4 sec processing, 0 ms extra exporting [233/233 mappings]. Threads: 3:11 min total, 2:24 min processing.
+[2019.06.08-13.16.15:703][583]LogStaticLightingSystem: Illumination: 43.0 sec (1.68 sec encoding lightmaps, 251 ms encoding shadowmaps)
+[2019.06.08-13.16.15:703][583]LogStaticLightingSystem: Lightmap texture memory:  5.4 MB (5.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.06.08-13.16.15:703][583]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.06.08-13.16.16:217][583]DumpUnbuiltLightIteractions
+[2019.06.08-13.16.16:218][583]Lights with unbuilt interactions: 0
+[2019.06.08-13.16.16:218][583]
+[2019.06.08-13.16.16:218][583]Primitives with unbuilt interactions: 0
+[2019.06.08-13.16.16:282][584]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.08-13.16.16:283][584]MapCheck: New page: Map_1 - 9 Jun 2019 8:16:16 am
+[2019.06.08-13.16.16:289][584]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.858ms to complete.
+[2019.06.08-13.16.17:550][725]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.16.17:560][725]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.16.29:858][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.16.29:983][184]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.16.29:997][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.16.29:997][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-13.16.29:997][184]PIE: New page: PIE session: Map_1 (9 Jun 2019 8:16:29 am)
+[2019.06.08-13.16.29:997][184]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_1
+[2019.06.08-13.16.30:019][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021647s)
+[2019.06.08-13.16.30:020][184]LogAIModule: Creating AISystem for world Map_1
+[2019.06.08-13.16.30:020][184]LogPlayLevel: PIE: World Init took: (0.000536s)
+[2019.06.08-13.16.30:020][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_1.Map_1 to /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 (0.022357s)
+[2019.06.08-13.16.30:054][184]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.16.30:082][184]LogInit: FAudioDevice initialized.
+[2019.06.08-13.16.30:099][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.16.30:132][184]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.16.30:145][184]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2019.06.08-22.46.30
+[2019.06.08-13.16.30:149][184]LogWorld: Bringing up level for play took: 0.016747
+[2019.06.08-13.16.30:167][184]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_1 0.032
+[2019.06.08-13.16.30:168][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.16.39:002][230]LogCharacterMovement: AI_Character2 is stuck and failed to move! Velocity: X=117.67 Y=-588.35 Z=0.00 Location: X=-2935.85 Y=-571.23 Z=233.15 Normal: X=-0.10 Y=0.99 Z=-0.00 PenetrationDepth:22.463 Actor:Bullet_Actor_C_21 Component:Sphere1 BoneName:None (0 other events since notify)
+[2019.06.08-13.16.47:760][278]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_71 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_71 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.16.47:761][278]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_71 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_71 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.17.05:317][382]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_121 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_121 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.17.05:317][382]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_121 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_121 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.17.33:065][708]LogCharacterMovement: AI_Character7 is stuck and failed to move! Velocity: X=373.38 Y=168.31 Z=0.00 Location: X=-997.23 Y=-1278.17 Z=233.19 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:2.071 Actor:Bullet_Actor_C_76 Component:Sphere1 BoneName:None (0 other events since notify)
+[2019.06.08-13.17.36:109][ 73]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_185 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_185 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.17.36:109][ 73]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_185 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_185 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.17.36:259][ 91]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_186 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_186 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.17.36:259][ 91]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_186 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_186 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.17.36:409][109]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_187 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_187 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.17.36:409][109]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_187 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_187 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.17.36:559][127]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_188 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_188 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.17.36:559][127]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_188 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_188 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.17.39:053][426]LogCharacterMovement: AI_Character8 is stuck and failed to move! Velocity: X=590.21 Y=107.95 Z=0.00 Location: X=1013.55 Y=417.48 Z=233.28 Normal: X=-1.00 Y=-0.09 Z=-0.00 PenetrationDepth:22.552 Actor:Bullet_Actor_C_99 Component:Sphere1 BoneName:None (0 other events since notify)
+[2019.06.08-13.17.43:746][989]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2019.06.08-13.17.52:578][ 45]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_248 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_248 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.17.52:578][ 45]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_248 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_248 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.18.12:009][370]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.18.12:009][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.18.12:027][370]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.18.12:064][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.18.12:064][370]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.18.12:144][371]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.06.08-13.18.13:451][496]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.18.13:459][496]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.18.19:423][136]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/TopDownBP/HUD/MainUI.MainUI
+[2019.06.08-13.18.20:459][136]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.06.08-13.18.21:852][136]LogSlate: Took 0.013658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.08-13.18.56:074][645]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/TopDownBP/HUD/MainUI.MainUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/TopDownBP/HUD/MainUI.MainUI_C:WidgetTree.CanvasPanel_0
+[2019.06.08-13.18.56:074][645]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/TopDownBP/HUD/MainUI.MainUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:MainUI_C_1.WidgetTree_0.CanvasPanel_0
+[2019.06.08-13.18.56:074][645]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/TopDownBP/HUD/MainUI.MainUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_1:MainUI_C_0.WidgetTree_0.CanvasPanel_0
+[2019.06.08-13.18.56:074][645]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/TopDownBP/HUD/MainUI.MainUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_174).  Import failed...
+[2019.06.08-13.18.56:074][645]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2019.06.08-13.19.58:174][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/HUD/MainUI" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/HUD/MainUI.uasset" SILENT=true
+[2019.06.08-13.19.58:724][156]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/MainUI288A2C7645BC9217BDE70AAB441383C5.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/HUD/MainUI.uasset'
+[2019.06.08-13.20.02:733][447]LogSlate: Window 'MainUI' being destroyed
+[2019.06.08-13.20.02:740][447]LogSlate: Window 'MainUI' being destroyed
+[2019.06.08-13.20.04:881][675]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.20.04:895][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.20.04:895][675]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.08-13.20.04:902][675]LogPlayLevel: [PlayLevel] Compiling MainUI before play...
+[2019.06.08-13.20.05:079][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 183 ms (1 blueprints)
+[2019.06.08-13.20.05:079][675]PIE: New page: PIE session: Map_1 (9 Jun 2019 8:20:05 am)
+[2019.06.08-13.20.05:079][675]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_1
+[2019.06.08-13.20.05:101][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021645s)
+[2019.06.08-13.20.05:101][675]LogAIModule: Creating AISystem for world Map_1
+[2019.06.08-13.20.05:102][675]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2019.06.08-13.20.05:102][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_1.Map_1 to /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 (0.022372s)
+[2019.06.08-13.20.05:142][675]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.20.05:170][675]LogInit: FAudioDevice initialized.
+[2019.06.08-13.20.05:186][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.20.05:216][675]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.20.05:229][675]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_1.Map_1 up for play (max tick rate 0) at 2019.06.08-22.50.05
+[2019.06.08-13.20.05:233][675]LogWorld: Bringing up level for play took: 0.016250
+[2019.06.08-13.20.05:250][675]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_1 1.115
+[2019.06.08-13.20.05:251][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.20.16:811][ 51]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.20.16:811][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.20.16:828][ 51]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.20.16:868][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.20.16:868][ 51]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1' with GeneratedClass '/Game/TopDownBP/Maps/Map_1.Map_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_1.Map_1:PersistentLevel.Map_1'
+[2019.06.08-13.20.16:926][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.06.08-13.20.33:951][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_1" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.20.34:430][975]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_1019C125C40DF96B8814025B02400772E.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1.umap'
+[2019.06.08-13.20.34:461][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_1_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1_BuiltData.uasset" SILENT=true
+[2019.06.08-13.20.34:788][975]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_1_BuiltData35C2B0334F4AC3F887C09FBB8F3F13DA.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1_BuiltData.uasset'
+[2019.06.08-13.20.36:110][101]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.20.36:120][101]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/Map_2.Map_2
+[2019.06.08-13.20.36:148][101]Cmd: MAP LOAD FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-13.20.36:148][101]LightingResults: New page: Lighting Build
+[2019.06.08-13.20.36:149][101]LoadErrors: New page: Loading map: Map_2.umap
+[2019.06.08-13.20.36:155][101]MapCheck: New page: Map Check
+[2019.06.08-13.20.36:155][101]LightingResults: New page: Lighting Build
+[2019.06.08-13.20.36:344][101]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-13.20.36:394][101]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-13.20.36:395][101]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2019.06.08-13.20.36:395][101]LogFileHelpers: Loading map 'Map_2' took 0.248
+[2019.06.08-13.20.40:683][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.20.46:914][220]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.08-13.21.05:735][257]MapCheck: New page: Map Check
+[2019.06.08-13.21.05:754][257]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.08-13.21.05:754][257]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.08-13.21.05:876][257]LightingResults: New page: Lighting Build - 9 Jun 2019 8:21:05 am
+[2019.06.08-13.21.05:883][257]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.08-13.21.05:885][257]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.08-13.21.05:885][257]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.08-13.21.05:886][257]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.08-13.21.05:886][257]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2019.06.08-13.21.10:401][257]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.08-13.21.10:401][257]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.08-13.21.10:401][257]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.08-13.21.10:401][257]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.08-13.21.10:401][257]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.08-13.21.10:401][257]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.08-13.21.10:524][257]LogEditorBuildUtils: Build time 0:04
+[2019.06.08-13.21.37:758][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.21.38:290][131]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.21.38:290][131]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.40:278][251]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.21.40:278][251]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.41:642][339]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.21.41:642][339]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.41:905][355]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.21.41:905][355]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.42:531][391]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.21.42:531][391]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.43:432][444]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.21.43:432][444]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.45:652][586]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.21.45:674][587]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.47:452][703]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.21.47:452][703]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.48:198][753]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.21.48:198][753]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.48:977][809]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.21.48:977][809]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.21.55:904][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maxi2)
+[2019.06.08-13.22.00:035][480]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.22.00:057][481]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.22.03:525][664]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.22.03:547][665]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.22.04:775][724]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.22.04:775][724]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.22.05:683][776]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.22.05:683][776]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.22.06:956][840]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.22.06:956][840]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.22.07:395][862]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.22.07:395][862]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.22.07:516][868]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.22.07:516][868]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.22.09:844][990]LogEditorViewport: Clicking Background
+[2019.06.08-13.22.13:017][276]Job is a success!
+[2019.06.08-13.22.13:064][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.22.13:146][277]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.035s
+[2019.06.08-13.22.13:146][277]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.08-13.22.13:146][277]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb
+[2019.06.08-13.22.13:146][277]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.08-13.22.13:147][277]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2019.06.08-13.22.13:147][277]LogVolumetricLightmapImport:          1: 3.2% covering 14.1% of volume
+[2019.06.08-13.22.13:147][277]LogVolumetricLightmapImport:          2: 96.5% covering 6.7% of volume
+[2019.06.08-13.22.15:691][277]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.06.08-13.22.15:691][277]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.06.08-13.22.15:692][277]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.06.08-13.22.15:891][277]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X128)
+[2019.06.08-13.22.15:891][277]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X64)
+[2019.06.08-13.22.15:937][277]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.06.08-13.22.15:963][277]Lightmass on HENRYSDESKTOP: 1:04 min total, 281 ms importing, 3.70 sec setup, 17.5 sec photons, 43.2 sec processing, 0 ms extra exporting [335/335 mappings]. Threads: 5:02 min total, 3:53 min processing.
+[2019.06.08-13.22.16:013][277]LogStaticLightingSystem: Illumination: 1:10 min (2.33 sec encoding lightmaps, 238 ms encoding shadowmaps)
+[2019.06.08-13.22.16:013][277]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (6.0 MB streaming, 0.2 MB non-streaming), 8 textures
+[2019.06.08-13.22.16:013][277]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 3 textures
+[2019.06.08-13.22.16:435][277]DumpUnbuiltLightIteractions
+[2019.06.08-13.22.16:436][277]Lights with unbuilt interactions: 0
+[2019.06.08-13.22.16:436][277]
+[2019.06.08-13.22.16:436][277]Primitives with unbuilt interactions: 0
+[2019.06.08-13.22.16:498][278]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.08-13.22.16:498][278]MapCheck: New page: Map_2 - 9 Jun 2019 8:22:16 am
+[2019.06.08-13.22.16:506][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.525ms to complete.
+[2019.06.08-13.22.16:513][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.22.17:802][432]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.22.17:810][432]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.22.20:096][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Maxi8)
+[2019.06.08-13.22.34:730][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.22.34:817][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.22.35:317][287]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2FEE778CC4946D10043D17685FFBFA3EA.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap'
+[2019.06.08-13.22.35:350][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset" SILENT=true
+[2019.06.08-13.22.36:045][287]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_BuiltData63790B6649D89C4780400893B9B9A3D5.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset'
+[2019.06.08-13.22.38:284][506]LogEditorViewport: Clicking Background
+[2019.06.08-13.22.45:931][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.22.50:506][886]LogAIModule: Creating AISystem for world Map_1
+[2019.06.08-13.22.50:535][886]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/Map_1.Map_1
+[2019.06.08-13.22.50:560][886]Cmd: MAP LOAD FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-13.22.50:560][886]LightingResults: New page: Lighting Build
+[2019.06.08-13.22.50:561][886]LoadErrors: New page: Loading map: Map_1.umap
+[2019.06.08-13.22.50:565][886]MapCheck: New page: Map Check
+[2019.06.08-13.22.50:565][886]LightingResults: New page: Lighting Build
+[2019.06.08-13.22.50:726][886]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-13.22.50:779][886]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-13.22.50:780][886]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2019.06.08-13.22.50:780][886]LogFileHelpers: Loading map 'Map_1' took 0.220
+[2019.06.08-13.23.10:784][ 92]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.23.10:799][ 92]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/Map_2.Map_2
+[2019.06.08-13.23.10:824][ 92]Cmd: MAP LOAD FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-13.23.10:824][ 92]LightingResults: New page: Lighting Build
+[2019.06.08-13.23.10:824][ 92]LoadErrors: New page: Loading map: Map_2.umap
+[2019.06.08-13.23.10:829][ 92]MapCheck: New page: Map Check
+[2019.06.08-13.23.10:829][ 92]LightingResults: New page: Lighting Build
+[2019.06.08-13.23.10:957][ 92]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-13.23.11:009][ 92]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-13.23.11:010][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.527ms to complete.
+[2019.06.08-13.23.11:011][ 92]LogFileHelpers: Loading map 'Map_2' took 0.188
+[2019.06.08-13.23.17:799][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.23.18:712][895]MapCheck: New page: Map Check
+[2019.06.08-13.23.18:725][895]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.23.18:728][895]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.08-13.23.18:728][895]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.08-13.23.18:851][895]LightingResults: New page: Lighting Build - 9 Jun 2019 8:23:18 am
+[2019.06.08-13.23.18:858][895]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.08-13.23.18:861][895]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.08-13.23.18:861][895]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.08-13.23.18:861][895]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.08-13.23.18:862][895]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2019.06.08-13.23.23:368][895]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.08-13.23.23:369][895]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.08-13.23.23:369][895]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.08-13.23.23:369][895]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.08-13.23.23:369][895]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.08-13.23.23:369][895]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.08-13.23.23:464][895]LogEditorBuildUtils: Build time 0:04
+[2019.06.08-13.23.52:508][352]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.23.52:508][352]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.23.54:276][480]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.23.54:298][481]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.23.55:462][565]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.23.55:462][565]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.23.55:692][580]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.23.55:692][580]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.23.56:230][619]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.23.56:230][619]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.23.57:032][672]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.23.57:032][672]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.23.59:132][815]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.23.59:132][815]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.00:625][911]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.24.00:647][912]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.01:461][956]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.24.01:461][956]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.02:330][ 10]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.24.02:330][ 10]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.13:442][728]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.24.13:442][728]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.17:022][962]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.24.17:022][962]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.18:352][ 53]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.24.18:352][ 53]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.19:298][119]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.24.19:298][119]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.20:661][213]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.24.20:661][213]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.21:024][239]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.24.21:024][239]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.21:254][254]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.24.21:254][254]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.24.26:831][639]Job is a success!
+[2019.06.08-13.24.26:886][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.24.26:970][641]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.036s
+[2019.06.08-13.24.26:971][641]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.08-13.24.26:971][641]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb
+[2019.06.08-13.24.26:971][641]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.08-13.24.26:971][641]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2019.06.08-13.24.26:971][641]LogVolumetricLightmapImport:          1: 3.2% covering 14.1% of volume
+[2019.06.08-13.24.26:971][641]LogVolumetricLightmapImport:          2: 96.5% covering 6.7% of volume
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2019.06.08-13.24.29:504][641]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2019.06.08-13.24.29:704][641]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X128)
+[2019.06.08-13.24.29:704][641]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X64)
+[2019.06.08-13.24.29:739][641]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2019.06.08-13.24.29:766][641]Lightmass on HENRYSDESKTOP: 1:05 min total, 280 ms importing, 3.82 sec setup, 19.0 sec photons, 42.5 sec processing, 0 ms extra exporting [335/335 mappings]. Threads: 4:57 min total, 3:48 min processing.
+[2019.06.08-13.24.29:821][641]LogStaticLightingSystem: Illumination: 1:10 min (2.31 sec encoding lightmaps, 227 ms encoding shadowmaps)
+[2019.06.08-13.24.29:821][641]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (6.0 MB streaming, 0.2 MB non-streaming), 8 textures
+[2019.06.08-13.24.29:821][641]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 3 textures
+[2019.06.08-13.24.30:408][641]DumpUnbuiltLightIteractions
+[2019.06.08-13.24.30:409][641]Lights with unbuilt interactions: 0
+[2019.06.08-13.24.30:409][641]
+[2019.06.08-13.24.30:409][641]Primitives with unbuilt interactions: 0
+[2019.06.08-13.24.30:471][642]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.08-13.24.30:471][642]MapCheck: New page: Map_2 - 9 Jun 2019 8:24:30 am
+[2019.06.08-13.24.30:480][642]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.547ms to complete.
+[2019.06.08-13.24.32:423][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.24.32:482][870]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.24.32:490][870]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.24.38:955][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.24.39:066][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.24.39:560][626]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_255C963D04F2EA90C7FDC27B1B4DB7E77.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap'
+[2019.06.08-13.24.39:593][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset" SILENT=true
+[2019.06.08-13.24.40:018][626]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_BuiltDataE02D836048C5172043099A89823AD9ED.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset'
+[2019.06.08-13.24.40:318][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.24.40:426][671]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.24.40:441][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.24.40:441][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-13.24.40:441][671]PIE: New page: PIE session: Map_2 (9 Jun 2019 8:24:40 am)
+[2019.06.08-13.24.40:441][671]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_2
+[2019.06.08-13.24.40:466][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024666s)
+[2019.06.08-13.24.40:466][671]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.24.40:466][671]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2019.06.08-13.24.40:466][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_2.Map_2 to /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 (0.025477s)
+[2019.06.08-13.24.40:505][671]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.24.40:534][671]LogInit: FAudioDevice initialized.
+[2019.06.08-13.24.40:552][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.24.40:582][671]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.24.40:594][671]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 up for play (max tick rate 0) at 2019.06.08-22.54.40
+[2019.06.08-13.24.40:595][671]LogWorld: Bringing up level for play took: 0.012796
+[2019.06.08-13.24.40:613][671]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_2 0.478
+[2019.06.08-13.24.40:613][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.24.57:955][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.24.57:956][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.24.57:973][732]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.24.58:016][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.24.58:016][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.24.58:056][733]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.08-13.25.01:235][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.25.08:355][818]Cmd: DELETE
+[2019.06.08-13.25.08:355][818]Cmd: ACTOR DELETE
+[2019.06.08-13.25.08:412][818]LogEditorActor: Deleted Actor: AI_Character_C
+[2019.06.08-13.25.08:438][818]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2019.06.08-13.25.11:504][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.25.11:570][157]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.25.11:584][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.25.11:585][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-13.25.11:585][157]PIE: New page: PIE session: Map_2 (9 Jun 2019 8:25:11 am)
+[2019.06.08-13.25.11:585][157]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_2
+[2019.06.08-13.25.11:609][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024653s)
+[2019.06.08-13.25.11:610][157]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.25.11:610][157]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2019.06.08-13.25.11:610][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_2.Map_2 to /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 (0.025490s)
+[2019.06.08-13.25.11:649][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.25.11:676][157]LogInit: FAudioDevice initialized.
+[2019.06.08-13.25.11:693][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.25.11:729][157]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.25.11:741][157]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 up for play (max tick rate 0) at 2019.06.08-22.55.11
+[2019.06.08-13.25.11:742][157]LogWorld: Bringing up level for play took: 0.012617
+[2019.06.08-13.25.11:759][157]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_2 -0.376
+[2019.06.08-13.25.11:760][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.25.12:840][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.25.12:840][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.25.12:857][279]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.25.12:895][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.25.12:895][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.25.12:948][281]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.06.08-13.25.18:885][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.25.23:740][396]LogEditorViewport: Clicking Background
+[2019.06.08-13.25.25:246][563]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2019.06.08-13.25.30:448][160]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2019.06.08-13.25.30:566][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.25.31:625][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.25.32:281][355]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2019.06.08-13.25.54:357][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel02)
+[2019.06.08-13.25.57:354][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.26.07:417][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.26.07:503][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.26.08:026][114]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2B95B69F2401B7BF21BCCEA8D1749D386.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap'
+[2019.06.08-13.26.08:058][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset" SILENT=true
+[2019.06.08-13.26.08:485][114]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_BuiltData3D20C9224C13477CC516F290C833D8E0.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset'
+[2019.06.08-13.26.15:588][937]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character4)
+[2019.06.08-13.26.42:912][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.26.43:480][871]LogEditorViewport: Clicking on Actor (LMB): Heart_C (Heart)
+[2019.06.08-13.26.58:875][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.26.59:481][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.26.59:992][727]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character)
+[2019.06.08-13.27.15:715][451]LogEditorViewport: Clicking Background
+[2019.06.08-13.27.16:769][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.27.16:872][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.27.17:430][564]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2F6553F7D44C6831858FC70914EE3C061.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap'
+[2019.06.08-13.27.17:462][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset" SILENT=true
+[2019.06.08-13.27.17:889][564]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_BuiltDataFD3E5DE04881152D285E12BD4C0F6848.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset'
+[2019.06.08-13.27.34:218][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.27.34:850][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.27.35:449][629]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character2)
+[2019.06.08-13.27.36:707][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.27.37:895][902]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character2)
+[2019.06.08-13.28.03:788][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.28.37:141][483]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character8)
+[2019.06.08-13.28.40:684][862]LogEditorViewport: Clicking Background
+[2019.06.08-13.28.41:708][983]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character13)
+[2019.06.08-13.29.13:157][346]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character16)
+[2019.06.08-13.29.26:983][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.29.27:094][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.29.27:684][869]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_229129E5940EA821D3CB904875F32E95B.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap'
+[2019.06.08-13.29.27:716][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset" SILENT=true
+[2019.06.08-13.29.28:183][869]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_BuiltDataE22E08BE47D6886964AF43954DDB344F.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset'
+[2019.06.08-13.29.37:817][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.29.37:893][951]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.29.37:906][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.29.37:907][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-13.29.37:907][951]PIE: New page: PIE session: Map_2 (9 Jun 2019 8:29:37 am)
+[2019.06.08-13.29.37:907][951]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_2
+[2019.06.08-13.29.37:936][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029182s)
+[2019.06.08-13.29.37:936][951]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.29.37:937][951]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2019.06.08-13.29.37:937][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_2.Map_2 to /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 (0.029987s)
+[2019.06.08-13.29.37:977][951]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.29.38:005][951]LogInit: FAudioDevice initialized.
+[2019.06.08-13.29.38:023][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.29.38:059][951]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.29.38:077][951]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 up for play (max tick rate 0) at 2019.06.08-22.59.38
+[2019.06.08-13.29.38:081][951]LogWorld: Bringing up level for play took: 0.021234
+[2019.06.08-13.29.38:098][951]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_2 -0.036
+[2019.06.08-13.29.38:099][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.29.54:275][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.29.54:275][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.29.54:293][876]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.29.54:347][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.29.54:347][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.29.54:386][877]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.06.08-13.30.03:250][891]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character11)
+[2019.06.08-13.30.37:726][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.30.38:415][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.30.38:856][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.06.08-13.30.39:477][717]LogEditorViewport: Clicking on Actor (LMB): AI_Character_C (AI_Character18)
+[2019.06.08-13.31.08:118][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.31.08:205][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.31.09:181][813]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_246D19E274775A897166F94938259E291.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap'
+[2019.06.08-13.31.09:214][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset" SILENT=true
+[2019.06.08-13.31.09:643][813]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_BuiltData477AC32F44042520C8F3CF98AD18DF07.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset'
+[2019.06.08-13.31.10:061][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.31.10:152][870]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.31.10:166][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.31.10:166][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.08-13.31.10:166][870]PIE: New page: PIE session: Map_2 (9 Jun 2019 8:31:10 am)
+[2019.06.08-13.31.10:166][870]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_2
+[2019.06.08-13.31.10:196][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030182s)
+[2019.06.08-13.31.10:197][870]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.31.10:197][870]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2019.06.08-13.31.10:197][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_2.Map_2 to /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 (0.030964s)
+[2019.06.08-13.31.10:236][870]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.31.10:262][870]LogInit: FAudioDevice initialized.
+[2019.06.08-13.31.10:280][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.31.10:312][870]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.31.10:331][870]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 up for play (max tick rate 0) at 2019.06.08-23.01.10
+[2019.06.08-13.31.10:335][870]LogWorld: Bringing up level for play took: 0.022949
+[2019.06.08-13.31.10:352][870]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_2 0.217
+[2019.06.08-13.31.10:353][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.31.17:759][743]LogCharacterMovement: AI_Character11 is stuck and failed to move! Velocity: X=-557.13 Y=222.71 Z=0.00 Location: X=-3036.20 Y=3147.87 Z=233.15 Normal: X=0.88 Y=-0.48 Z=0.00 PenetrationDepth:22.381 Actor:Bullet_Actor_C_15 Component:Sphere1 BoneName:None (0 other events since notify)
+[2019.06.08-13.31.35:376][847]LogCharacterMovement: AI_Character18 is stuck and failed to move! Velocity: X=352.38 Y=241.11 Z=0.00 Location: X=-401.98 Y=3414.59 Z=233.15 Normal: X=-0.87 Y=-0.50 Z=0.00 PenetrationDepth:22.694 Actor:Bullet_Actor_C_45 Component:Sphere1 BoneName:None (0 other events since notify)
+[2019.06.08-13.32.04:047][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.32.04:118][284]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.32.04:128][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.32.04:165][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.32.04:166][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.32.04:224][285]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.06.08-13.32.04:867][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.32.05:153][383]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI_Character.AI_Character
+[2019.06.08-13.32.07:366][471]LogRenderer: Reallocating scene render targets to support 1528x756 Format 10 NumSamples 1 (Frame:1).
+[2019.06.08-13.32.09:162][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.32.22:682][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.32.40:562][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.32.46:632][582]BlueprintLog: New page: Compile AI_Character
+[2019.06.08-13.32.47:662][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI_Character" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/AI_Character.uasset" SILENT=true
+[2019.06.08-13.32.47:731][624]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/AI_Character9AC660744387EA9214A006A2BFF73C49.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/AI_Character.uasset'
+[2019.06.08-13.32.48:439][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.32.48:515][690]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.08-13.32.48:523][690]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.08-13.32.51:926][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.32.53:051][189]MapCheck: New page: Map Check
+[2019.06.08-13.32.53:070][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.32.53:074][189]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.08-13.32.53:076][189]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.08-13.32.53:264][189]LightingResults: New page: Lighting Build - 9 Jun 2019 8:32:53 am
+[2019.06.08-13.32.53:272][189]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.08-13.32.53:274][189]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.08-13.32.53:274][189]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.08-13.32.53:275][189]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.08-13.32.53:275][189]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10308
+[2019.06.08-13.32.57:785][189]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.08-13.32.57:785][189]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.08-13.32.57:785][189]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.08-13.32.57:785][189]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.08-13.32.57:785][189]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.08-13.32.57:785][189]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.08-13.32.57:884][189]LogEditorBuildUtils: Build time 0:04
+[2019.06.08-13.33.23:883][267]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.23:883][267]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.25:571][272]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.25:571][272]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.26:585][275]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.26:585][275]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.26:919][276]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.26:919][276]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.27:596][278]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.27:596][278]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.28:270][280]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.33.28:270][280]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.29:944][285]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.29:945][285]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.31:281][289]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.31:281][289]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.31:950][291]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.33.31:950][291]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.32:626][293]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.33.32:626][293]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.44:500][893]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.44:500][893]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.46:216][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.33.46:375][ 22]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/AI_Character.AI_Character
+[2019.06.08-13.33.48:180][ 67]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.48:202][ 68]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.49:564][116]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.49:564][116]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.50:322][150]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.50:322][150]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.51:626][190]LightingResults: Warning: SM_CartonGarbage07 Object has overlapping UVs.
+[2019.06.08-13.33.51:626][190]LightingResults: SM_CartonGarbage07 Lightmap UV are overlapping by 2.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.52:065][210]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.33.52:065][210]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.52:197][216]LightingResults: Warning: SM_CartonGarbage09 Object has overlapping UVs.
+[2019.06.08-13.33.52:197][216]LightingResults: SM_CartonGarbage09 Lightmap UV are overlapping by 3.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.08-13.33.58:074][467]Job is a success!
+[2019.06.08-13.33.58:201][468]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.037s
+[2019.06.08-13.33.58:201][468]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.08-13.33.58:201][468]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb
+[2019.06.08-13.33.58:201][468]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.08-13.33.58:201][468]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2019.06.08-13.33.58:201][468]LogVolumetricLightmapImport:          1: 3.2% covering 14.1% of volume
+[2019.06.08-13.33.58:201][468]LogVolumetricLightmapImport:          2: 96.5% covering 6.7% of volume
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.06.08-13.34.00:821][468]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.06.08-13.34.01:021][468]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X128)
+[2019.06.08-13.34.01:021][468]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X64)
+[2019.06.08-13.34.01:065][468]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2019.06.08-13.34.01:092][468]Lightmass on HENRYSDESKTOP: 1:02 min total, 281 ms importing, 3.62 sec setup, 16.4 sec photons, 42.1 sec processing, 0 ms extra exporting [335/335 mappings]. Threads: 4:55 min total, 3:46 min processing.
+[2019.06.08-13.34.01:149][468]LogStaticLightingSystem: Illumination: 1:07 min (2.40 sec encoding lightmaps, 227 ms encoding shadowmaps)
+[2019.06.08-13.34.01:150][468]LogStaticLightingSystem: Lightmap texture memory:  6.2 MB (6.0 MB streaming, 0.2 MB non-streaming), 8 textures
+[2019.06.08-13.34.01:150][468]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 3 textures
+[2019.06.08-13.34.01:826][468]DumpUnbuiltLightIteractions
+[2019.06.08-13.34.01:826][468]Lights with unbuilt interactions: 0
+[2019.06.08-13.34.01:826][468]
+[2019.06.08-13.34.01:826][468]Primitives with unbuilt interactions: 0
+[2019.06.08-13.34.01:895][469]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.08-13.34.01:895][469]MapCheck: New page: Map_2 - 9 Jun 2019 8:34:01 am
+[2019.06.08-13.34.01:905][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9.158ms to complete.
+[2019.06.08-13.34.01:997][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.34.02:105][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI_Character" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/AI_Character.uasset" SILENT=true
+[2019.06.08-13.34.02:155][488]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/AI_Character1C98118F4325CDC3F92D08AF65D1E9E7.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/AI_Character.uasset'
+[2019.06.08-13.34.02:986][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.34.03:083][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/AI_Character" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/AI_Character.uasset" SILENT=true
+[2019.06.08-13.34.03:125][565]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/AI_Character5700D26C4EEC15EB450B7A962A5386EC.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/AI_Character.uasset'
+[2019.06.08-13.34.04:300][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.34.04:361][663]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.08-13.34.04:369][663]LogSlate: Window 'AI_Character' being destroyed
+[2019.06.08-13.34.05:708][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.34.05:806][819]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.34.05:813][819]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.42.07:067][947]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_Auto14E2C725F4EF6245CF542A5B6FE09D21A.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Autosaves/Game/TopDownBP/Maps/Map_2_Auto1.umap'
+[2019.06.08-13.42.07:075][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/Map_2' took 0.860
+[2019.06.08-13.42.07:075][947]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.860
+[2019.06.08-13.44.49:671][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.08-13.45.05:409][324]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Downloads\471834__keshafilm__health-pickup.wav)
+[2019.06.08-13.45.05:513][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.08-13.45.13:476][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Sounds/Health" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Sounds/Health.uasset" SILENT=true
+[2019.06.08-13.45.13:480][ 18]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Health2D53900D453AE4588DDB049803C9C545.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Sounds/Health.uasset'
+[2019.06.08-13.45.17:632][416]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Heart.Heart
+[2019.06.08-13.45.47:886][880]BlueprintLog: New page: Compile Heart
+[2019.06.08-13.45.48:411][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/Heart" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/Heart.uasset" SILENT=true
+[2019.06.08-13.45.48:440][901]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Heart89AFFA914EAAFDDB8D668DA48337F71E.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/Heart.uasset'
+[2019.06.08-13.45.49:001][943]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.08-13.45.49:022][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.45.49:022][943]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.08-13.45.49:036][943]LogPlayLevel: [PlayLevel] Compiling Bullet_Actor_Friendly before play...
+[2019.06.08-13.45.49:040][943]LogPlayLevel: [PlayLevel]   Compiling AI_Character as a dependent...
+[2019.06.08-13.45.49:308][943]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (2 blueprints)
+[2019.06.08-13.45.49:308][943]PIE: New page: PIE session: Map_2 (9 Jun 2019 8:45:49 am)
+[2019.06.08-13.45.49:308][943]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_Map_2
+[2019.06.08-13.45.49:339][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030655s)
+[2019.06.08-13.45.49:340][943]LogAIModule: Creating AISystem for world Map_2
+[2019.06.08-13.45.49:340][943]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.06.08-13.45.49:340][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/Map_2.Map_2 to /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 (0.031405s)
+[2019.06.08-13.45.49:382][943]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.08-13.45.49:408][943]LogInit: FAudioDevice initialized.
+[2019.06.08-13.45.49:428][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.45.49:461][943]LogLoad: Game class is 'TopDownGameMode_C'
+[2019.06.08-13.45.49:479][943]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2 up for play (max tick rate 0) at 2019.06.08-23.15.49
+[2019.06.08-13.45.49:484][943]LogWorld: Bringing up level for play took: 0.022765
+[2019.06.08-13.45.49:502][943]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_Map_2 1.367
+[2019.06.08-13.45.49:503][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.45.56:661][490]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_13 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_13 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.45.56:661][490]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_13 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_13 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.45.56:822][502]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_14 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_14 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.45.56:822][502]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_14 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_14 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.45.56:977][514]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_15 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.45.56:977][514]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_15 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_15 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.46.03:490][ 11]LogCharacterMovement: AI_Character3 is stuck and failed to move! Velocity: X=-148.91 Y=-549.00 Z=0.00 Location: X=-2503.80 Y=-2202.39 Z=233.15 Normal: X=0.32 Y=0.95 Z=0.00 PenetrationDepth:16.847 Actor:Bullet_Actor_C_20 Component:Sphere1 BoneName:None (0 other events since notify)
+[2019.06.08-13.46.05:492][160]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_36 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_36 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.46.05:492][160]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_36 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_36 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.46.13:330][762]LogScript: Warning: Attempted to access Bullet_Actor_Friendly_C_61 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_61 is pending kill
+	TopDownCharacter_C /Game/TopDownBP/Maps/UEDPIE_0_Map_2.Map_2:PersistentLevel.TopDownCharacter_C_0
+	Function /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter_C:ExecuteUbergraph_TopDownCharacter:027C
+[2019.06.08-13.46.13:330][762]PIE: Error: Blueprint Runtime Error: "Attempted to access Bullet_Actor_Friendly_C_61 via property CallFunc_FinishSpawningActor_ReturnValue, but Bullet_Actor_Friendly_C_61 is pending kill". Blueprint:  TopDownCharacter Function:  Execute Ubergraph Top Down Character Graph:  EventGraph Node:  Set Actor Scale 3D
+[2019.06.08-13.46.14:990][888]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Health...
+[2019.06.08-13.46.15:052][888]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 59392 while cooking SoundWave /Game/TopDownBP/Sounds/Health.Health.
+[2019.06.08-13.46.18:030][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.46.18:031][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.08-13.46.18:048][116]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.08-13.46.18:094][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.08-13.46.18:094][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2' with GeneratedClass '/Game/TopDownBP/Maps/Map_2.Map_2_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/Map_2.Map_2:PersistentLevel.Map_2'
+[2019.06.08-13.46.18:222][117]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.06.08-13.46.19:437][210]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.46.19:448][210]LogSlate: Window 'Message Log' being destroyed
+[2019.06.08-13.46.22:125][438]LogSlate: Window 'Heart' being destroyed
+[2019.06.08-13.46.22:133][438]LogSlate: Window 'Heart' being destroyed
+[2019.06.08-13.46.23:361][537]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/TopDownCharacter.TopDownCharacter
+[2019.06.08-13.46.33:590][243]BlueprintLog: New page: Compile TopDownCharacter
+[2019.06.08-13.46.34:109][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2019.06.08-13.46.34:172][254]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/TopDownCharacter40F154AB4F57D9B099970D8B835453E0.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2019.06.08-13.46.34:799][298]LogSlate: Window 'TopDownCharacter' being destroyed
+[2019.06.08-13.46.34:807][298]LogSlate: Window 'TopDownCharacter' being destroyed
+[2019.06.08-13.50.54:187][999]LogAssetTools: Warning: Failed to import 'D:\Downloads\246171__ajexk__construction-soundscape.flac'. Unknown extension 'flac'.
+[2019.06.08-13.51.37:353][595]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:\Downloads\246171__ajexk__construction-soundscape.wav)
+[2019.06.08-13.51.37:359][595]Error: Unable to read wave file '246171__ajexk__construction-soundscape' - "Invalid WAVE file."
+[2019.06.08-13.51.39:610][595]LogSlate: Window 'Message' being destroyed
+[2019.06.08-13.51.39:619][595]LogAssetTools: Warning: Failed to import 'D:\Downloads\246171__ajexk__construction-soundscape.wav'. Failed to create asset '/Game/TopDownBP/Sounds/246171__ajexk__construction-soundscape'.
+Please see Output Log for details.
+[2019.06.08-13.52.02:618][ 66]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Henry\Desktop\246171__ajexk__construction-soundscape.wav)
+[2019.06.08-13.52.07:584][168]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave 246171__ajexk__construction-soundscape...
+[2019.06.08-13.52.08:589][168]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 11469984 while cooking SoundWave /Game/TopDownBP/Sounds/246171__ajexk__construction-soundscape.246171__ajexk__construction-soundscape.
+[2019.06.08-13.52.16:800][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.52.17:421][ 64]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_23CE230C3449EE4F6790A639A10AB4DD4.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2.umap'
+[2019.06.08-13.52.17:453][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/Map_2_BuiltData" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset" SILENT=true
+[2019.06.08-13.52.17:904][ 64]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/Map_2_BuiltData1C9B2BA64EF67B48248304BE7D389730.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/Map_2_BuiltData.uasset'
+[2019.06.08-13.52.18:988][147]LogAIModule: Creating AISystem for world MainMenu
+[2019.06.08-13.52.18:994][147]LogAssetEditorManager: Opening Asset editor for World /Game/TopDownBP/Maps/MainMenu.MainMenu
+[2019.06.08-13.52.21:784][147]LogSlate: Window 'Save Content' being destroyed
+[2019.06.08-13.52.21:848][147]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/246171__ajexk__construction-soun47BCC4254521FDF0E58F8C9AD2BCB2D3.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Sounds/246171__ajexk__construction-soundscape.uasset'
+[2019.06.08-13.52.21:852][147]Cmd: MAP LOAD FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.08-13.52.21:852][147]LightingResults: New page: Lighting Build
+[2019.06.08-13.52.21:853][147]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.06.08-13.52.21:859][147]MapCheck: New page: Map Check
+[2019.06.08-13.52.21:859][147]LightingResults: New page: Lighting Build
+[2019.06.08-13.52.21:949][147]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.08-13.52.22:000][147]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.08-13.52.22:001][147]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.213ms to complete.
+[2019.06.08-13.52.22:002][147]LogFileHelpers: Loading map 'MainMenu' took 0.151
+[2019.06.08-13.52.26:978][697]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/TopDownBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2019.06.08-13.52.35:914][598]BlueprintLog: New page: Compile MainMenu
+[2019.06.08-13.52.36:785][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/MainMenu" FILE="../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.08-13.52.36:969][666]LogSavePackage: Moving '../../../../../../Homework/Game_Dev_Assignmnet/Saved/MainMenuBD733B794C9853392A1A089E1E169692.tmp' to '../../../../../../Homework/Game_Dev_Assignmnet/Content/TopDownBP/Maps/MainMenu.umap'
+[2019.06.08-13.52.36:999][666]LogFileHelpers: Saving map 'MainMenu' took 0.215
+[2019.06.08-13.52.37:838][755]LogSlate: Window 'MainMenu - Level Blueprint Editor' being destroyed
+[2019.06.08-13.52.37:847][755]LogSlate: Window 'MainMenu - Level Blueprint Editor' being destroyed
+[2019.06.08-13.52.50:047][ 86]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.06.08-13.52.50:072][ 86]LogWindows: Windows GetLastError: The operation completed successfully. (0)
